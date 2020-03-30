@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vent</string>
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Tutorials</string>
+</resources>
